@@ -104,4 +104,4 @@ Educational use permitted. Please cite this repository if using materials for te
 ## Contact
 
 For questions or suggestions regarding the repository structure or content, please refer to individual folder README files for detailed information.</content>
-<parameter name="filePath">d:\Machine Learning\README.md
+<parameter name="(https://github.com/varun-chourasia/Machine-Learning/README.md)">Machine Learning\README.md
