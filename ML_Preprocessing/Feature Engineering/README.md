@@ -8,7 +8,15 @@ The **Feature Engineering** folder is dedicated to advanced techniques for creat
 
 ```
 Feature Engineering/
+├── Encodin_techniques/
+│   └── Binning_and_Binarization/
+│   └── Feature Selection/
+│   └── Feature Selection/
+│   └── Feature Selection/
 ├── PCA/
+│   └── Feature Selection/
+│   └── Feature Selection/
+│   └── Feature Selection/
 │   └── Feature Selection/
 ```
 
